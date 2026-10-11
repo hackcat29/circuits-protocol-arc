@@ -13,7 +13,7 @@ Circuits is already running on Arc Mainnet.
 Run:
 
 ```bash
-git clone https://github.com/UncleTom29/circuits-protocol-arc.git
+git clone https://github.com/hackcat29/circuits-protocol-arc.git
 cd circuits-protocol-arc
 npm install
 npm run verify:mainnet

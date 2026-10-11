@@ -10,9 +10,9 @@
 
 **Documentation:** https://docs.circuitsprotocol.com
 
-**Source Repository:** https://github.com/UncleTom29/circuits-protocol-arc
+**Source Repository:** https://github.com/hackcat29/circuits-protocol-arc
 
-**Public Builder Profile:** https://github.com/UncleTom29
+**Public Builder Profile:** https://github.com/hackcat29
 
 **Network:** Arc Mainnet
 
@@ -263,7 +263,7 @@ Because Circuits is a live application, counts such as registered agents, active
 ## Reproducing the project
 
 ```bash
-git clone https://github.com/UncleTom29/circuits-protocol-arc.git
+git clone https://github.com/hackcat29/circuits-protocol-arc.git
 cd circuits-protocol-arc
 npm install
 npm test

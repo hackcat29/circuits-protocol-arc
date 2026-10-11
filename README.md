@@ -16,7 +16,7 @@
 
 - **Live Production App:** https://app.circuitsprotocol.com
 - **Official Documentation:** https://docs.circuitsprotocol.com
-- **Public Documentation Repo:** https://github.com/UncleTom29/circuits-protocol-docs
+- **Public Documentation Repo:** https://github.com/hackcat29/circuits-protocol-docs
 - **Arc Mainnet Explorer:** https://arc.etherscan.io
 - **DoraHacks Submission:** [docs/DORAHACKS_SUBMISSION.md](./docs/DORAHACKS_SUBMISSION.md)
 - **Reviewer Guide:** [docs/REVIEWER_GUIDE.md](./docs/REVIEWER_GUIDE.md)
@@ -214,7 +214,7 @@ circuits-protocol-arc/
 ### Installation
 
 ```bash
-git clone https://github.com/UncleTom29/circuits-protocol-arc.git
+git clone https://github.com/hackcat29/circuits-protocol-arc.git
 cd circuits-protocol-arc
 npm install
 ```
